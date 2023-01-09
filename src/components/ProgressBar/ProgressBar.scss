@@ -1,0 +1,20 @@
+$primary-color: darkcyan;
+
+.progress-bar-main {
+    margin-bottom: 15%;
+}
+
+.progress-bar-container {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    background-color: $primary-color;
+    border: 1px solid lightgray;
+}
+
+
+.progress-bar-label {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
